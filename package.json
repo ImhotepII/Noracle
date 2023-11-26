@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "openai": "^4.20.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "gptfiles",
+  "version": "1.0.0",
+  "description": "simple web app",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImhotepII/Noracle.git"
+  },
+  "author": "C Isaacs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ImhotepII/Noracle/issues"
+  },
+  "homepage": "https://github.com/ImhotepII/Noracle#readme"
 }
