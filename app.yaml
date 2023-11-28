@@ -14,9 +14,9 @@
 
 # [START gae_flex_quickstart_yaml]
 runtime: nodejs
-env: flex
+env: standard
 runtime_config:
-  operating_system: Node.js v18.16.0
+  operating_system: 
 # This sample incurs costs to run on the App Engine flexible environment.
 # The settings below are to reduce costs during testing and are not appropriate
 # for production use. For more information, see:
